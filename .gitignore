@@ -1,0 +1,33 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build output
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+
+# ASP.NET Core
+wwwroot/uploads/
+
+# Logs
+*.log
+
+# Environment / local configuration
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
